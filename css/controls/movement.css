@@ -5,8 +5,8 @@
     --pos_1_0_display: block;
     --pos_0_1_display: block;
 
-    --pos_1_0_icon: url(../../assets/svg/arrows/r.svg);
-    --pos_0_1_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_1_0_icon: url(./assets/svg/arrows/r.svg);
+    --pos_0_1_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_1_0:checked) {
@@ -17,9 +17,9 @@
     --pos_0_0_display: block;
     --pos_1_1_display: block;
 
-    --pos_2_0_icon: url(../../assets/svg/arrows/r.svg);
-    --pos_0_0_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_1_1_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_2_0_icon: url(./assets/svg/arrows/r.svg);
+    --pos_0_0_icon: url(./assets/svg/arrows/l.svg);
+    --pos_1_1_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_2_0:checked) {
@@ -30,9 +30,9 @@
     --pos_1_0_display: block;
     --pos_2_1_display: block;
 
-    --pos_3_0_icon: url(../../assets/svg/arrows/r.svg);
-    --pos_1_0_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_2_1_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_3_0_icon: url(./assets/svg/arrows/r.svg);
+    --pos_1_0_icon: url(./assets/svg/arrows/l.svg);
+    --pos_2_1_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_3_0:checked) {
@@ -42,8 +42,8 @@
     --pos_2_0_display: block;
     --pos_3_1_display: block;
 
-    --pos_2_0_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_3_1_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_2_0_icon: url(./assets/svg/arrows/l.svg);
+    --pos_3_1_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_0_1:checked) {
@@ -54,9 +54,9 @@
     --pos_1_1_display: block;
     --pos_0_2_display: block;
 
-    --pos_0_0_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_1_1_icon: url(../../assets/svg/arrows/r.svg);
-    --pos_0_2_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_0_0_icon: url(./assets/svg/arrows/u.svg);
+    --pos_1_1_icon: url(./assets/svg/arrows/r.svg);
+    --pos_0_2_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_1_1:checked) {
@@ -68,10 +68,10 @@
     --pos_2_1_display: block;
     --pos_1_2_display: block;
 
-    --pos_1_0_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_0_1_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_2_1_icon: url(../../assets/svg/arrows/r.svg);
-    --pos_1_2_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_1_0_icon: url(./assets/svg/arrows/u.svg);
+    --pos_0_1_icon: url(./assets/svg/arrows/l.svg);
+    --pos_2_1_icon: url(./assets/svg/arrows/r.svg);
+    --pos_1_2_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_2_1:checked) {
@@ -83,10 +83,10 @@
     --pos_3_1_display: block;
     --pos_2_2_display: block;
 
-    --pos_2_0_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_1_1_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_3_1_icon: url(../../assets/svg/arrows/r.svg);
-    --pos_2_2_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_2_0_icon: url(./assets/svg/arrows/u.svg);
+    --pos_1_1_icon: url(./assets/svg/arrows/l.svg);
+    --pos_3_1_icon: url(./assets/svg/arrows/r.svg);
+    --pos_2_2_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_3_1:checked) {
@@ -97,9 +97,9 @@
     --pos_2_1_display: block;
     --pos_3_2_display: block;
 
-    --pos_3_0_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_2_1_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_3_2_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_3_0_icon: url(./assets/svg/arrows/u.svg);
+    --pos_2_1_icon: url(./assets/svg/arrows/l.svg);
+    --pos_3_2_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_0_2:checked) {
@@ -110,9 +110,9 @@
     --pos_1_2_display: block;
     --pos_0_3_display: block;
 
-    --pos_0_1_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_1_2_icon: url(../../assets/svg/arrows/r.svg);
-    --pos_0_3_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_0_1_icon: url(./assets/svg/arrows/u.svg);
+    --pos_1_2_icon: url(./assets/svg/arrows/r.svg);
+    --pos_0_3_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_1_2:checked) {
@@ -124,10 +124,10 @@
     --pos_2_2_display: block;
     --pos_1_3_display: block;
 
-    --pos_1_1_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_0_2_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_2_2_icon: url(../../assets/svg/arrows/r.svg);
-    --pos_1_3_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_1_1_icon: url(./assets/svg/arrows/u.svg);
+    --pos_0_2_icon: url(./assets/svg/arrows/l.svg);
+    --pos_2_2_icon: url(./assets/svg/arrows/r.svg);
+    --pos_1_3_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_2_2:checked) {
@@ -139,10 +139,10 @@
     --pos_3_2_display: block;
     --pos_2_3_display: block;
 
-    --pos_2_1_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_1_2_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_3_2_icon: url(../../assets/svg/arrows/r.svg);
-    --pos_2_3_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_2_1_icon: url(./assets/svg/arrows/u.svg);
+    --pos_1_2_icon: url(./assets/svg/arrows/l.svg);
+    --pos_3_2_icon: url(./assets/svg/arrows/r.svg);
+    --pos_2_3_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_3_2:checked) {
@@ -153,9 +153,9 @@
     --pos_2_2_display: block;
     --pos_3_3_display: block;
 
-    --pos_3_1_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_2_2_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_3_3_icon: url(../../assets/svg/arrows/d.svg);
+    --pos_3_1_icon: url(./assets/svg/arrows/u.svg);
+    --pos_2_2_icon: url(./assets/svg/arrows/l.svg);
+    --pos_3_3_icon: url(./assets/svg/arrows/d.svg);
 }
 
 #controls:has(#pos_0_3:checked) {
@@ -165,8 +165,8 @@
     --pos_0_2_display: block;
     --pos_1_3_display: block;
 
-    --pos_0_2_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_1_3_icon: url(../../assets/svg/arrows/r.svg);
+    --pos_0_2_icon: url(./assets/svg/arrows/u.svg);
+    --pos_1_3_icon: url(./assets/svg/arrows/r.svg);
 }
 
 #controls:has(#pos_1_3:checked) {
@@ -177,9 +177,9 @@
     --pos_1_2_display: block;
     --pos_2_3_display: block;
 
-    --pos_0_3_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_1_2_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_2_3_icon: url(../../assets/svg/arrows/r.svg);
+    --pos_0_3_icon: url(./assets/svg/arrows/l.svg);
+    --pos_1_2_icon: url(./assets/svg/arrows/u.svg);
+    --pos_2_3_icon: url(./assets/svg/arrows/r.svg);
 }
 
 #controls:has(#pos_2_3:checked) {
@@ -190,9 +190,9 @@
     --pos_2_2_display: block;
     --pos_3_3_display: block;
 
-    --pos_1_3_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_2_2_icon: url(../../assets/svg/arrows/u.svg);
-    --pos_3_3_icon: url(../../assets/svg/arrows/r.svg);
+    --pos_1_3_icon: url(./assets/svg/arrows/l.svg);
+    --pos_2_2_icon: url(./assets/svg/arrows/u.svg);
+    --pos_3_3_icon: url(./assets/svg/arrows/r.svg);
 }
 
 #controls:has(#pos_3_3:checked) {
@@ -202,6 +202,6 @@
     --pos_2_3_display: block;
     --pos_3_2_display: block;
 
-    --pos_2_3_icon: url(../../assets/svg/arrows/l.svg);
-    --pos_3_2_icon: url(../../assets/svg/arrows/u.svg);
+    --pos_2_3_icon: url(./assets/svg/arrows/l.svg);
+    --pos_3_2_icon: url(./assets/svg/arrows/u.svg);
 }
