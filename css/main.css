@@ -103,7 +103,7 @@ body {
 }
 
 #controls {
-    background-image: url(/assets/png/grass.png);
+    background-image: url(../assets/png/grass.png);
     background-size: 128px;
 }
 
