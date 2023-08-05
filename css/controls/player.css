@@ -1,0 +1,15 @@
+#player {
+    width: 32px;
+    height: 32px;
+    background-color: green;
+    grid-row-start: 0;
+    grid-column-start: 0;
+    position: absolute;
+    transform: 
+        translateX(48px)
+        translateY(48px)
+        translateX(calc(128px * var(--pos-x)))
+        translateY(calc(128px * var(--pos-y)));
+
+    transition: 200ms;
+}

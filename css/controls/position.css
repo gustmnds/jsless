@@ -1,0 +1,111 @@
+#pos_0_0 {
+    grid-row-start: 1;
+    grid-column-start: 1;
+    display: var(--pos_0_0_display);
+    --icon: var(--pos_0_0_icon);
+}
+
+#pos_1_0 {
+    grid-row-start: 1;
+    grid-column-start: 2;
+    display: var(--pos_1_0_display);
+    --icon: var(--pos_1_0_icon);
+}
+
+#pos_2_0 {
+    grid-row-start: 1;
+    grid-column-start: 3;
+    display: var(--pos_2_0_display);
+    --icon: var(--pos_2_0_icon);
+}
+
+#pos_3_0 {
+    grid-row-start: 1;
+    grid-column-start: 4;
+    display: var(--pos_3_0_display);
+    --icon: var(--pos_3_0_icon);
+}
+
+#pos_0_1 {
+    grid-row-start: 2;
+    grid-column-start: 1;
+    display: var(--pos_0_1_display);
+    --icon: var(--pos_0_1_icon);
+}
+
+#pos_1_1 {
+    grid-row-start: 2;
+    grid-column-start: 2;
+    display: var(--pos_1_1_display);
+    --icon: var(--pos_1_1_icon);
+}
+
+#pos_2_1 {
+    grid-row-start: 2;
+    grid-column-start: 3;
+    display: var(--pos_2_1_display);
+    --icon: var(--pos_2_1_icon);
+}
+
+#pos_3_1 {
+    grid-row-start: 2;
+    grid-column-start: 4;
+    display: var(--pos_3_1_display);
+    --icon: var(--pos_3_1_icon);
+}
+
+#pos_0_2 {
+    grid-row-start: 3;
+    grid-column-start: 1;
+    display: var(--pos_0_2_display);
+    --icon: var(--pos_0_2_icon);
+}
+
+#pos_1_2 {
+    grid-row-start: 3;
+    grid-column-start: 2;
+    display: var(--pos_1_2_display);
+    --icon: var(--pos_1_2_icon);
+}
+
+#pos_2_2 {
+    grid-row-start: 3;
+    grid-column-start: 3;
+    display: var(--pos_2_2_display);
+    --icon: var(--pos_2_2_icon);
+}
+
+#pos_3_2 {
+    grid-row-start: 3;
+    grid-column-start: 4;
+    display: var(--pos_3_2_display);
+    --icon: var(--pos_3_2_icon);
+}
+
+#pos_0_3 {
+    grid-row-start: 4;
+    grid-column-start: 1;
+    display: var(--pos_0_3_display);
+    --icon: var(--pos_0_3_icon);
+}
+
+#pos_1_3 {
+    grid-row-start: 4;
+    grid-column-start: 2;
+    display: var(--pos_1_3_display);
+    --icon: var(--pos_1_3_icon);
+}
+
+#pos_2_3 {
+    grid-row-start: 4;
+    grid-column-start: 3;
+    display: var(--pos_2_3_display);
+    --icon: var(--pos_2_3_icon);
+}
+
+#pos_3_3 {
+    grid-row-start: 4;
+    grid-column-start: 4;
+    display: var(--pos_3_3_display);
+    --icon: var(--pos_3_3_icon);
+}
